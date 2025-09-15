@@ -43,7 +43,7 @@
 We welcome developers, teams, and enterprises eager to build faster with AI-powered, real-time collaboration.
 
 - 🌐 **Website**: [https://vibecaas.com](https://vibecaas.com)  
-- 💼 **LinkedIn**: [linkedin.com/company/vibecaas](https://linkedin.com/company/vibecaas)  
+- 🤗 **HuggingFace**: [(huggingface.co/VibeCaaS)]([https://linkedin.com/company/vibecaas](https://huggingface.co/VibeCaaS))  
 - 💬 **Contact**: hello@vibecaas.com  
 
 ---
