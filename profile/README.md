@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Untitled design.png" alt="VibeCaaS Logo" width="800"/>
+  <img src="VibeCaaSLogo.png" alt="VibeCaaS Logo" width="800"/>
 </p>
 
 # VibeCaaS
